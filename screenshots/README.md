@@ -9,10 +9,14 @@
 ## Slash Command Usage
 
 [Slash Command](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125329.png)
-[1](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125353.png)
-[2](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125451.png)
-[3](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125511.png)
-[4](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125538.png)
+
+[example 1](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125353.png)
+
+[example 2](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125451.png)
+
+[example 3](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125511.png)
+
+[example 4](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125538.png)
 
 ## Bot Ignores Normal Messages
 
