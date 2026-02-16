@@ -22,10 +22,12 @@
 
 **LavaTune does not monitors the general conversation**
 therefore, Message Content is not used for tracking.
+
 [normal message no bot response](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20133005.png)
 
 ## Argument Parsing Example
 
 LavaTune Music Bot parsing message content intentionally and not reading messages randomly.
+
 [incorrect command](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20133229.png)
 
