@@ -1,3 +1,5 @@
+## Message Content Intent Required Screenshots:
+
 ## Prefix Command Usage
 
 [Prefix Command](https://github.com/nitromail254-pixel/lavatune-media/blob/main/screenshots/Screenshot%202026-02-16%20125214.png)
